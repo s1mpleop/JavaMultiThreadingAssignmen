@@ -1,2 +1,2 @@
-# JavaMultiThreadingAssignmen
+# JavaMultiThreadingAssignment
 Java Multi Threading Assignment
